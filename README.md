@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **JavaScript,GSAP,ReactJS,PHP**
 
-- 📫 How to reach me **https://www.linkedin.com/in/dip-gyawali-537029312/**
+- 📫 How to reach me **https://www.linkedin.com/in/dip-kumar-gyawali/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
